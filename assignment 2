@@ -1,0 +1,10 @@
+#program on changing kilometers in to cm
+kilometer=float(input('enter no of kilometers :'))
+centimeter=100000*kilometers
+print('value in centimeter:',centimeter)
+
+                                    or
+km=(input('enter value of kilometer:')
+centimeters=(kilometers)/100000
+print('centimeter:',centimeter)
+                                
